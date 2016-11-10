@@ -1,0 +1,29 @@
+{
+  "name": "aframe-starter-kit",
+  "version": "0.1.0",
+  "description": "A starter kit for the A-Frame virtual reality web framework",
+  "main": "index.html",
+  "scripts": {
+    "start": "reload -b",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thoragio/aframe-starter-kit.git"
+  },
+  "keywords": [
+    "aframe",
+    "webvr",
+    "boilerplate",
+    "quickstart"
+  ],
+  "author": "thoragio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thoragio/aframe-starter-kit/issues"
+  },
+  "homepage": "https://github.com/thoragio/aframe-starter-kit#readme",
+  "devDependencies": {
+    "reload": "^1.0.2"
+  }
+}
